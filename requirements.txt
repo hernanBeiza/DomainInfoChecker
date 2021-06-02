@@ -2,6 +2,6 @@ certifi==2020.4.5.1
 chardet==3.0.4
 idna==2.9
 requests==2.23.0
-urllib3==1.25.8
+urllib3==1.26.5
 whois==0.9.7
 xlrd==1.2.0
